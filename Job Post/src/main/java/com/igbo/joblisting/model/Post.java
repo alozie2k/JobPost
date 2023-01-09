@@ -1,4 +1,4 @@
-package com.telusko.joblisting.model;
+package com.igbi.JobPost.model;
 
 import org.springframework.data.mongodb.core.mapping.Document;
 

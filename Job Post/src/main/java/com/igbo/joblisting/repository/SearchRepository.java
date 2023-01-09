@@ -1,6 +1,6 @@
-package com.telusko.joblisting.repository;
+package com.igbi.JobPost.repository;
 
-import com.telusko.joblisting.model.Post;
+import com.igbi.JobPost.model.Post;
 
 import java.util.List;
 
